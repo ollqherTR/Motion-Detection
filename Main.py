@@ -41,8 +41,8 @@ def detect_motion(prev_pixel_data, curr_pixel_data, width, height, row_size):
     return diff_pixel_data, motion_detected
 
 if __name__ == "__main__":
-    input_file_1 = "./sample/sample3.bmp"
-    input_file_2 = "./sample/sample4.bmp"
+    input_file_1 = "./sample/sample1.bmp"
+    input_file_2 = "./sample/sample2.bmp"
     grayscale_file_1 = "./grayscale_frame1.bmp"
     grayscale_file_2 = "./grayscale_frame2.bmp"
     motion_file = "./result.bmp"
