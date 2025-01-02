@@ -21,9 +21,9 @@ Usage
 
 Place two BMP images in the ./sample/ directory:
 
-sample3.bmp
+sample1.bmp
 
-sample4.bmp
+sample2.bmp
 
 2. Run the Code
 
